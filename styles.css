@@ -134,6 +134,9 @@ color: lightblue;
   text-align: center;
   text-decoration: none !important;
 }
+a[href^=tel]{
+   color:#000; text-decoration:none;
+  }
 .textNumber {
   padding-left: 10px;
   padding-right: 10px;
