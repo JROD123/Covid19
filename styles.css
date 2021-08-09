@@ -132,7 +132,7 @@ color: lightblue;
   font-weight: 500;
   font-family: "Yantramanav", sans-serif;
   text-align: center;
-  text-decoration: none;
+  text-decoration: none !important;
 }
 .textNumber {
   padding-left: 10px;
