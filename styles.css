@@ -70,7 +70,7 @@ footer {
   margin-bottom: 2px;
   font-family: "Yantramanav", sans-serif;
 }
-.wikiLink{
+.wikiLink {
   color: white;
   font-size: 12px;
   font-weight: 100;
@@ -78,10 +78,10 @@ footer {
   font-family: "Yantramanav", sans-serif;
   text-decoration: none;
 }
-.wikiLink:hover{
-color: lightblue;
+.wikiLink:hover {
+  color: lightblue;
 }
-.cdcLink{
+.cdcLink {
   color: white;
   font-size: 12px;
   font-weight: 100;
@@ -89,8 +89,8 @@ color: lightblue;
   font-family: "Yantramanav", sans-serif;
   text-decoration: none;
 }
-.cdcLink:hover{
-color: lightblue;
+.cdcLink:hover {
+  color: lightblue;
 }
 .p-footerName {
   color: white;
@@ -134,9 +134,10 @@ color: lightblue;
   text-align: center;
   text-decoration: none !important;
 }
-a[href^=tel]{
-   color:#000; text-decoration:none;
-  }
+a[href^="tel"] {
+  color: #000;
+  text-decoration: none;
+}
 .textNumber {
   padding-left: 10px;
   padding-right: 10px;
@@ -157,9 +158,9 @@ a[href^=tel]{
 .webAddress {
   text-align: center;
 }
-.vacLink{
-    text-decoration: none;
-    padding-left: 10px;
+.vacLink {
+  text-decoration: none;
+  padding-left: 10px;
   padding-right: 10px;
   letter-spacing: 2px;
   margin-bottom: 5px;
@@ -247,13 +248,12 @@ a[href^=tel]{
     margin-bottom: 40px;
   }
   .webAddress {
-      text-align: start;
+    text-align: start;
+  }
+
+  .col-md-12 {
+    width: 100%;
+    padding-left: 0px;
+    padding-right: 0px;
+  }
 }
-
-.col-md-12 {
-  width: 100%;
-  padding-left: 0px;
-  padding-right: 0px;
-}
-
-
